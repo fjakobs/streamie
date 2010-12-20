@@ -3,3 +3,4 @@ lib/data/
 *bbproject*
 config.json
 .DS_Store
+.settings.xml
